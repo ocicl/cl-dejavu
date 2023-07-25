@@ -1,0 +1,10 @@
+* cl-dejavu
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://codeberg.org/TurtleWare/cl-dejavu.git   |
+| commit  |   |
+| systems | cl-dejavu |
+|---------+-------------------------------------------|
+

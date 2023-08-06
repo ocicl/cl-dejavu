@@ -2,9 +2,8 @@
 
 
 
-9d68ced---------+-------------------------------------------|
-9d68ced source  | git:https://codeberg.org/TurtleWare/cl-dejavu.git   |
-9d68ced commit  |   |
-9d68ced systems | cl-dejavu |
-9d68ced---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://codeberg.org/TurtleWare/cl-dejavu.git |
+| commit  | 9d68ced                                           |
+| systems | cl-dejavu                                         |
+|---------+---------------------------------------------------|
